@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'Nortwind'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_60B6E198C88347418AF163F706D3E784 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_41355E7823F2419EB402A64A04EAEBCD }}
           package: .
